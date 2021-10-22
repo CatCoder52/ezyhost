@@ -1,4 +1,8 @@
-# hosting
+# EzHosting
+
+![](./vue-4.jpg)
+
+
 
 ## Project setup
 ```
