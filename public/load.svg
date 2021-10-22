@@ -1,0 +1,84 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1063.1 259" xml:space="preserve">
+  <style>
+    .bal0,.bal1{stroke-miterlimit:10}.bal0{stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:gray}.bal1{fill:#fff;stroke:#ee5586;stroke-width:2}.bal1,.bal2{stroke-linecap:round;stroke-linejoin:round}.bal2,.bal3,.bal4{fill:none;stroke:gray;stroke-miterlimit:10}.bal4{stroke:#ee5586;stroke-width:1;stroke-linecap:round;stroke-linejoin:round}.bal5{fill:#ee5586}
+  </style>
+  <path class="bal0" d="M112.6 41.6h55.7v37.1h-55.7zM107.9 87.4h65"/>
+  <path id="svg-concept" class="bal1" d="M121.6 55.2h13.1M121.6 64.7h26.3M240.9 55.2H254M240.9 64.7H259M8.6 55.2h13.2M8.6 64.7h18.1"/>
+  <circle class="bal2" cx="514.2" cy="83.8" r="3.7"/>
+  <path class="bal2" d="M514.2 73.6v6.3M485.1 83.8h25.3M518 83.8h25.2"/>
+  <circle class="bal2" cx="779.2" cy="83.8" r="3.7"/>
+  <path class="bal2" d="M779.2 73.6v6.3M750.2 83.8h25.2M783 83.8h25.3"/>
+  <path class="bal0" d="M760.8 33.9c0-.8-.1-1.5 0-2.3 1.2-12.4 12.1-22.1 24.8-22.1h-.4c13.5 0 24.4 10.9 24.4 24.4 0 7-2.9 13.3-7.7 17.8"/>
+  <path class="bal0" d="M785.4 19.2c-7.6.1-14.2 6-14.9 13.3v1.3M753.5 24.1c-9.4 0-17.1 7.6-17.1 17.1 0 4.2 1.5 8 4 11M37 74.5H.8v-38H37M25.7 74.5v6.9M37 81.4H13.6M57.4 27.9h-17c-1.9 0-3.4 1.2-3.4 2.6v54.4c0 1.4 1.5 2.6 3.4 2.6h17.1c1.9 0 3.4-1.2 3.4-2.6V30.5c-.1-1.4-1.6-2.6-3.5-2.6z"/>
+  <path class="bal0" d="M49.5 37.1c2.3.3 3.9 2.4 3.6 4.7-.3 2.3-2.4 3.9-4.7 3.6-2.3-.3-3.9-2.4-3.6-4.7.3-2.3 2.4-3.9 4.7-3.6zM235.3 86.5V37c0-.5.4-.9.9-.9h28.5c.5 0 .9.4.9.9v49.5c0 .5-.4.9-.9.9h-28.5c-.5 0-.9-.4-.9-.9M248.3 40.7h4.3"/>
+  <path class="bal0" d="M252.6 80.8c0 1.2-1 2.1-2.1 2.1-1.2 0-2.1-1-2.1-2.1 0-1.2 1-2.1 2.1-2.1 1.1-.1 2.1.9 2.1 2.1z"/>
+  <path class="bal3" d="M140.7 211.8h746.9M140.7 99v68.6"/>
+  <path class="bal0" d="M130 256.1v-21.2M130 234.9h4.7M130 256.1h4.7M146.7 234.9h4.7M151.4 234.9v21.2M151.4 256.1h-4.7"/>
+  <path id="svg-concept" class="bal4" d="M140.7 251.4v-13M140.7 238.4h-3.6"/>
+  <path class="bal0" d="M877.4 256.1v-21.2M877.4 234.9h4.7M877.4 256.1h4.7M894.1 234.9h4.7M898.8 234.9v21.2M898.8 256.1h-4.7"/>
+  <path id="svg-concept" class="bal4" d="M891.3 252v-13M884.9 245.5h6.4M891.3 239H885M884.9 252h6.2"/>
+  <path class="bal0" d="M503.4 256.1v-21.2M503.4 234.9h4.8M503.4 256.1h4.8M520.1 234.9h4.8M524.9 234.9v21.2M524.9 256.1h-4.8"/>
+  <path id="svg-concept" class="bal4" d="M517.4 245.5V239M511 245.5h6.4M517.4 239h-6.3M510.9 245.5v6.5M510.9 252h6.3"/>
+  <path class="bal3" d="M140.7 167.6v44.2M250.7 99l-110 68.6M514.2 99v112.8M888.1 167.6v44.2M31.1 99l109.6 68.6M998.1 99l-110 68.6M778.5 99l109.6 68.6"/>
+  <path class="bal0" d="M573.7 16.7c0 1.9-1.4 3.5-3.2 3.5H457.8c-1.8 0-3.2-1.6-3.2-3.5V4.3c0-1.9 1.4-3.5 3.2-3.5h112.8c1.8 0 3.2 1.6 3.2 3.5v12.4zM461.2.9v19.2M567.2.9v19.3"/>
+  <g>
+    <path id="svg-concept" class="bal4" d="M558.7 10.5c0 2.3-1.9 4.1-4.1 4.1-2.3 0-4.1-1.9-4.1-4.1s1.8-4.1 4.1-4.1 4.1 1.8 4.1 4.1z"/>
+    <path id="svg-concept" class="bal4" d="M556.1 10.5c0 .8-.7 1.5-1.5 1.5s-1.5-.7-1.5-1.5.7-1.5 1.5-1.5c.9 0 1.5.7 1.5 1.5zM558.7 10.5h-2.6M553.1 10.5h-2.6"/>
+  </g>
+  <path class="bal0" d="M573.7 42.4c0 1.9-1.4 3.5-3.2 3.5H457.8c-1.8 0-3.2-1.6-3.2-3.5V30c0-1.9 1.4-3.5 3.2-3.5h112.8c1.8 0 3.2 1.6 3.2 3.5v12.4zM461.2 26.5v19.3M567.2 26.5v19.3"/>
+  <g>
+    <path id="svg-concept" class="bal4" d="M558.7 36.2c0 2.3-1.9 4.1-4.1 4.1-2.3 0-4.1-1.9-4.1-4.1 0-2.3 1.8-4.1 4.1-4.1s4.1 1.8 4.1 4.1z"/>
+    <path id="svg-concept" class="bal4" d="M556.1 36.2c0 .8-.7 1.5-1.5 1.5s-1.5-.7-1.5-1.5.7-1.5 1.5-1.5c.9 0 1.5.6 1.5 1.5zM558.7 36.2h-2.6M553.1 36.2h-2.6"/>
+  </g>
+  <path class="bal0" d="M573.7 68c0 1.9-1.4 3.5-3.2 3.5H457.8c-1.8 0-3.2-1.6-3.2-3.5V55.7c0-1.9 1.4-3.5 3.2-3.5h112.8c1.8 0 3.2 1.6 3.2 3.5V68zM461.2 52.2v19.2M567.2 52.2v19.3"/>
+  <g>
+    <path id="svg-concept" class="bal4" d="M558.7 61.8c0 2.3-1.9 4.1-4.1 4.1-2.3 0-4.1-1.9-4.1-4.1 0-2.3 1.8-4.1 4.1-4.1s4.1 1.9 4.1 4.1z"/>
+    <path id="svg-concept" class="bal4" d="M556.1 61.9c0 .8-.7 1.5-1.5 1.5s-1.5-.7-1.5-1.5.7-1.5 1.5-1.5c.9-.1 1.5.6 1.5 1.5zM558.7 61.9h-2.6M553.1 61.9h-2.6"/>
+  </g>
+  <g>
+    <path class="bal0" d="M838.8 68c0 1.9-1.4 3.5-3.2 3.5H722.8c-1.8 0-3.2-1.6-3.2-3.5V55.7c0-1.9 1.4-3.5 3.2-3.5h112.8c1.8 0 3.2 1.6 3.2 3.5V68zM726.2 52.2v19.2"/>
+    <path id="svg-concept" class="bal4" d="M823.8 61.8c0 2.3-1.9 4.1-4.1 4.1-2.3 0-4.1-1.9-4.1-4.1 0-2.3 1.8-4.1 4.1-4.1 2.2 0 4.1 1.9 4.1 4.1z"/>
+    <path id="svg-concept" class="bal4" d="M821.2 61.9c0 .8-.7 1.5-1.5 1.5s-1.5-.7-1.5-1.5.7-1.5 1.5-1.5c.8-.1 1.5.6 1.5 1.5zM823.8 61.9h-2.6M818.1 61.9h-2.6"/>
+  </g>
+  <g>
+    <circle class="bal2" cx="998.1" cy="83.8" r="3.7"/>
+    <path class="bal2" d="M998.1 73.6v6.3M969 83.8h25.3M1001.9 83.8h25.2"/>
+  </g>
+  <path class="bal0" d="M979.7 33.9c0-.8-.1-1.5 0-2.3 1.2-12.4 12.1-22.1 24.8-22.1h-.4c13.5 0 24.4 10.9 24.4 24.4 0 7-2.9 13.3-7.7 17.8"/>
+  <path class="bal0" d="M1004.2 19.2c-7.6.1-14.2 6-14.9 13.3v1.3M972.4 24.1c-9.4 0-17.1 7.6-17.1 17.1 0 4.2 1.5 8 4 11"/>
+  <g>
+    <path class="bal0" d="M1057.6 68c0 1.9-1.4 3.5-3.2 3.5H941.7c-1.8 0-3.2-1.6-3.2-3.5V55.7c0-1.9 1.4-3.5 3.2-3.5h112.8c1.8 0 3.2 1.6 3.2 3.5V68zM945.1 52.2v19.2"/>
+    <path id="svg-concept" class="bal4" d="M1042.6 61.8c0 2.3-1.9 4.1-4.1 4.1-2.3 0-4.1-1.9-4.1-4.1 0-2.3 1.8-4.1 4.1-4.1s4.1 1.9 4.1 4.1z"/>
+    <path id="svg-concept" class="bal4" d="M1040 61.9c0 .8-.7 1.5-1.5 1.5s-1.5-.7-1.5-1.5.7-1.5 1.5-1.5c.9-.1 1.5.6 1.5 1.5zM1042.6 61.9h-2.6M1037 61.9h-2.6"/>
+  </g>
+  <circle id="svg-ico" class="bal5" cx="140.7" cy="211.8" r="3"/>
+  <circle id="svg-ico" class="bal5" cx="888.1" cy="211.8" r="3"/>
+  <g>
+    <path id="svg-concept" class="bal1" d="M35.1 99c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0 0 105 66 0 0" begin="0s" dur="4s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="bal1" d="M144.7 136.9c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0, 67 0 -35 0 67" begin="0s" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="bal1" d="M254.8 99c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0 0 -105 66 0 0" begin="0s" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="bal1" d="M317 211.8c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M570, 0 -165 0 570 0" begin="0s" dur="12s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="bal1" d="M518.2 139.9c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0, 67 0 -35 0 67" begin="0s" dur="4s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="bal1" d="M783.2 99c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0 0 105 66 0 0" begin="0s" dur="3s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <path id="svg-concept" class="bal1" d="M1002.1 99c0 2.2-1.8 4-4 4s-4-1.8-4-4 1.8-4 4-4 4 1.8 4 4z"/>
+    <animateMotion path="M0 0 -105 66 0 0" begin="0s" dur="4s" repeatCount="indefinite"/>
+  </g>
+</svg>
